@@ -1,0 +1,14 @@
+C:\Users\ubald\OneDrive - Universidad Hispanoamericana\VI Cuatrimestre\Estructuras de Datos\Semana IV\Proyecto 1 grupo #2\Proyecto 1 grupo #2\bin\Debug\net8.0\Proyecto 1 grupo #2.exe
+C:\Users\ubald\OneDrive - Universidad Hispanoamericana\VI Cuatrimestre\Estructuras de Datos\Semana IV\Proyecto 1 grupo #2\Proyecto 1 grupo #2\bin\Debug\net8.0\Proyecto 1 grupo #2.deps.json
+C:\Users\ubald\OneDrive - Universidad Hispanoamericana\VI Cuatrimestre\Estructuras de Datos\Semana IV\Proyecto 1 grupo #2\Proyecto 1 grupo #2\bin\Debug\net8.0\Proyecto 1 grupo #2.runtimeconfig.json
+C:\Users\ubald\OneDrive - Universidad Hispanoamericana\VI Cuatrimestre\Estructuras de Datos\Semana IV\Proyecto 1 grupo #2\Proyecto 1 grupo #2\bin\Debug\net8.0\Proyecto 1 grupo #2.dll
+C:\Users\ubald\OneDrive - Universidad Hispanoamericana\VI Cuatrimestre\Estructuras de Datos\Semana IV\Proyecto 1 grupo #2\Proyecto 1 grupo #2\bin\Debug\net8.0\Proyecto 1 grupo #2.pdb
+C:\Users\ubald\OneDrive - Universidad Hispanoamericana\VI Cuatrimestre\Estructuras de Datos\Semana IV\Proyecto 1 grupo #2\Proyecto 1 grupo #2\obj\Debug\net8.0\Proyecto 1 grupo #2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ubald\OneDrive - Universidad Hispanoamericana\VI Cuatrimestre\Estructuras de Datos\Semana IV\Proyecto 1 grupo #2\Proyecto 1 grupo #2\obj\Debug\net8.0\Proyecto 1 grupo #2.AssemblyInfoInputs.cache
+C:\Users\ubald\OneDrive - Universidad Hispanoamericana\VI Cuatrimestre\Estructuras de Datos\Semana IV\Proyecto 1 grupo #2\Proyecto 1 grupo #2\obj\Debug\net8.0\Proyecto 1 grupo #2.AssemblyInfo.cs
+C:\Users\ubald\OneDrive - Universidad Hispanoamericana\VI Cuatrimestre\Estructuras de Datos\Semana IV\Proyecto 1 grupo #2\Proyecto 1 grupo #2\obj\Debug\net8.0\Proyecto 1 grupo #2.csproj.CoreCompileInputs.cache
+C:\Users\ubald\OneDrive - Universidad Hispanoamericana\VI Cuatrimestre\Estructuras de Datos\Semana IV\Proyecto 1 grupo #2\Proyecto 1 grupo #2\obj\Debug\net8.0\Proyecto 1 grupo #2.dll
+C:\Users\ubald\OneDrive - Universidad Hispanoamericana\VI Cuatrimestre\Estructuras de Datos\Semana IV\Proyecto 1 grupo #2\Proyecto 1 grupo #2\obj\Debug\net8.0\refint\Proyecto 1 grupo #2.dll
+C:\Users\ubald\OneDrive - Universidad Hispanoamericana\VI Cuatrimestre\Estructuras de Datos\Semana IV\Proyecto 1 grupo #2\Proyecto 1 grupo #2\obj\Debug\net8.0\Proyecto 1 grupo #2.pdb
+C:\Users\ubald\OneDrive - Universidad Hispanoamericana\VI Cuatrimestre\Estructuras de Datos\Semana IV\Proyecto 1 grupo #2\Proyecto 1 grupo #2\obj\Debug\net8.0\Proyecto 1 grupo #2.genruntimeconfig.cache
+C:\Users\ubald\OneDrive - Universidad Hispanoamericana\VI Cuatrimestre\Estructuras de Datos\Semana IV\Proyecto 1 grupo #2\Proyecto 1 grupo #2\obj\Debug\net8.0\ref\Proyecto 1 grupo #2.dll
